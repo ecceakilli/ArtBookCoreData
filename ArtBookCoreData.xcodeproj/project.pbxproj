@@ -14,6 +14,7 @@
 		17B5B81A27746F3100118942 /* ArtBookCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 17B5B81827746F3100118942 /* ArtBookCoreData.xcdatamodeld */; };
 		17B5B81C27746F3300118942 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17B5B81B27746F3300118942 /* Assets.xcassets */; };
 		17B5B81F27746F3300118942 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17B5B81D27746F3300118942 /* LaunchScreen.storyboard */; };
+		17B5B82927749E1700118942 /* ViewControllerDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B5B82827749E1700118942 /* ViewControllerDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		17B5B81B27746F3300118942 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17B5B81E27746F3300118942 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17B5B82027746F3300118942 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17B5B82827749E1700118942 /* ViewControllerDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				17B5B80F27746F3100118942 /* AppDelegate.swift */,
 				17B5B81127746F3100118942 /* SceneDelegate.swift */,
 				17B5B81327746F3100118942 /* ViewController.swift */,
+				17B5B82827749E1700118942 /* ViewControllerDetails.swift */,
 				17B5B81527746F3100118942 /* Main.storyboard */,
 				17B5B81B27746F3300118942 /* Assets.xcassets */,
 				17B5B81D27746F3300118942 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				17B5B81A27746F3100118942 /* ArtBookCoreData.xcdatamodeld in Sources */,
 				17B5B81027746F3100118942 /* AppDelegate.swift in Sources */,
 				17B5B81227746F3100118942 /* SceneDelegate.swift in Sources */,
+				17B5B82927749E1700118942 /* ViewControllerDetails.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
